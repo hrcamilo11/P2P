@@ -44,6 +44,11 @@ RedP2P/
 ### Video Explicativo
 - [[Video Explicativo Red P2P](https://youtu.be/BYXkRpHHqkU)]
 
+### Autoevaluacion
+```
+100%
+```
+
 ### Prerrequisitos
 - Docker y Docker Compose
 - PowerShell (Windows) o Bash (Linux/macOS)
@@ -205,6 +210,7 @@ docker-compose up -d --build
 
 
 Este proyecto es de código abierto y está disponible bajo la licencia MIT.
+
 
 
 
