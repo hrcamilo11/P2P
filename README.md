@@ -42,7 +42,8 @@ RedP2P/
 ## 🚀 Inicio Rápido
 
 ### Video Explicativo
-- (Video Explicativo Red P2P)[https://youtu.be/BYXkRpHHqkU]
+- [(Video Explicativo Red P2P)[https://youtu.be/BYXkRpHHqkU]]
+- [!(Video Explicativo Red P2P)[https://youtu.be/BYXkRpHHqkU]]
 
 ### Prerrequisitos
 - Docker y Docker Compose
@@ -205,5 +206,6 @@ docker-compose up -d --build
 
 
 Este proyecto es de código abierto y está disponible bajo la licencia MIT.
+
 
 
