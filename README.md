@@ -41,6 +41,10 @@ RedP2P/
 
 ## 🚀 Inicio Rápido
 
+### Video Explicativo
+[https://youtu.be/BYXkRpHHqkU](Video Explicativo Red P2P)
+![https://youtu.be/BYXkRpHHqkU](Video Explicativo Red P2P)
+
 ### Prerrequisitos
 - Docker y Docker Compose
 - PowerShell (Windows) o Bash (Linux/macOS)
@@ -199,5 +203,6 @@ docker-compose up -d --build
 ```
 
 ## 📄 Licencia
+
 
 Este proyecto es de código abierto y está disponible bajo la licencia MIT.
